@@ -1,0 +1,15 @@
+;; This config was generated using ensime-config-gen. Feel free to customize its contents manually.
+
+(
+
+:project-name "programming_in_scala"
+
+:project-package "com.programmingInScala"
+
+:sources ("./")
+
+:compile-jars ("./lib" "./")
+
+:target "./"
+
+)

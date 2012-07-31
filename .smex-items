@@ -1,0 +1,37 @@
+
+;; ----- smex-history -----
+(
+ shell
+ ensime-sbt
+ ensime
+ load-theme
+ find-function
+ shell-command
+ indent-region
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 3)
+ (ensime . 19)
+ (term . 2)
+ (ensime-sbt . 23)
+ (shell . 11)
+ (emacs-version . 1)
+ (package-list-packages . 2)
+ (auto-complete . 1)
+ (er/expand-region . 14)
+ (ace-jump-mode . 2)
+ (dired . 2)
+ (eval-buffer . 17)
+ (kill-region . 1)
+ (list-processes . 1)
+ (load-theme . 3)
+ (comment-kill . 1)
+ (comment-or-uncomment-region . 1)
+ (help-go-back . 1)
+ (eval-region . 2)
+ (indent-region . 1)
+ (shell-command . 1)
+ (find-function . 1)
+)

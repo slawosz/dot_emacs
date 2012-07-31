@@ -1,0 +1,130 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/slawosz/projekty/eventmachine/lib/" . "em/")
+ ("/home/slawosz/projekty/eventmachine/" . "lib/")
+ ("/home/slawosz/projekty/scala-koans/src/test/scala/org/functionalkoans/" . "forscala/")
+ ("/home/slawosz/projekty/scala-koans/src/test/scala/org/" . "functionalkoans/")
+ ("/home/slawosz/projekty/scala-koans/src/test/scala/" . "org/")
+ ("/home/slawosz/projekty/scala-koans/src/test/" . "scala/")
+ ("/home/slawosz/projekty/scala-koans/src/main/scala/org/functionalkoans/" . "forscala/")
+ ("/home/slawosz/projekty/scala-koans/src/main/scala/org/" . "functionalkoans/")
+ ("/home/slawosz/projekty/scala-koans/src/main/scala/" . "org/")
+ ("/home/slawosz/projekty/scala-koans/src/main/" . "scala/")
+ ("/home/slawosz/projekty/scala-koans/src/" . "main/")
+ ("/home/slawosz/projekty/scala-koans/" . "src/")
+ ("/home/slawosz/.emacs.d/elpa/" . "ace-jump-mode-1.0/")
+ ("/home/slawosz/.emacs.d/" . "keybindings/")
+ ("/home/slawosz/projekty/new_jobandtalent/app/" . "models/")
+ ("/home/slawosz/projekty/new_jobandtalent/" . "app/")
+ ("/home/slawosz/projekty/scala-sbt-example/src/main/" . "scala/")
+ ("/home/slawosz/projekty/scala-sbt-example/src/" . "main/")
+ ("/home/slawosz/projekty/scala-sbt-example/" . "src/")
+ ("/home/slawosz/projekty/" . "eventmachine/")
+ ("/home/slawosz/" . "projekty/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/slawosz/projekty/eventmachine/lib/"
+ "/home/slawosz/.emacs.d/"
+ "/home/slawosz/projekty/scala-koans/src/test/scala/org/functionalkoans/forscala/"
+ "/home/slawosz/.emacs.d/keybindings/"
+ "/home/slawosz/projekty/scala-koans/"
+ "/home/slawosz/projekty/scala-koans/src/main/scala/org/functionalkoans/forscala/"
+ "/home/slawosz/projekty/programming_in_scala/"
+ "/home/slawosz/.emacs.d/elpa/ace-jump-mode-1.0/"
+ "/home/slawosz/projekty/scala_learning/"
+ "/home/slawosz/projekty/new_jobandtalent/app/models/"
+ "/home/slawosz/projekty/"
+ "/home/slawosz/projekty/scala-sbt-example/src/main/scala/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "eventmachine.rb"
+ "slawosz-hooks.el"
+ "init.el"
+ "AboutMaps.scala"
+ "keybindings.el"
+ "expand-region-keybindings.el"
+ "expand-region.el"
+ "AboutLists.scala"
+ "AboutTuples.scala"
+ "AboutRange.scala"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/slawosz/projekty/eventmachine/lib/em/" (20497 9515) "../" "version.rb" "file_watch.rb" "completion.rb" "processes.rb" "connection.rb" "timers.rb" "queue.rb" "deferrable/" "future.rb" "process_watch.rb" "messages.rb" "streamer.rb" "spawnable.rb" "iterator.rb" "resolver.rb" "pure_ruby.rb" "channel.rb" "tick_loop.rb" "protocols.rb" "deferrable.rb" "callback.rb" "pool.rb" "./" "buftok.rb" "threaded_resource.rb" "protocols/")
+
+ ("/home/slawosz/projekty/eventmachine/lib/" (20497 9515) "../" "jeventmachine.rb" "eventmachine.rb" "em/" "./")
+
+ ("/home/slawosz/projekty/eventmachine/" (20497 9515) "../" "Rakefile" "ext/" ".yardopts" "rakelib/" "docs/" "lib/" "examples/" "LICENSE" "GNU" "java/" "tests/" "eventmachine.gemspec" "Gemfile" ".git/" ".gitignore" "./" "README.md")
+
+ ("/home/slawosz/projekty/" (20497 9510) "../" "rails_panel/" "planes/" "myssl" "scala_learning/" "planes.zip" "scala-koans/" "scala-dist/" "mustache.js/" "scala-sbt-example/" "jobandtalent/" "climbing_spots/" "car_rental_app/" "ruby_sandbox/" "elearning/" "rabbit_tutorial/" "devise/" "presentations/" "dmarsh-scalakoansexercises-12cbe683d167.zip" "rails/" "./" "programming_in_scala/" "eventmachine/" "Play20/" "ensime/" "example_rails/" "new_jobandtalent/")
+
+ ("/home/slawosz/" (20497 9510) "Calibre Library/" ".gem/" ".vim/" ".xsession-errors.old" ".goutputstream-GBR1FW" ".subversion/" ".shotwell/" ".vimrc" ".goutputstream-R7B1FW" "planes/" ".fgo/" ".rediscli_history" ".profile" ".ido.last" ".mozilla/" ".viminfo" ".ICEauthority" "Music/" "IdeaProjects/" ".thumbnails/" ".IntelliJIdea11/" "C:\\nppdf32Log\\debuglog.txt" ".rvm/" ".gnome2_private/" ".config/" "Ubuntu One/" ".wireshark/" ".gitconfig" ".psql_history" "str.rb~" ".zsh_history" ".eclim/" ".swt/" ".irb-history" ".gimp-2.6/" "Templates/" "bin/" ".compiz/" ".ivy2/" ".dbus/" "VirtualBox VMs/" ".gnome/" ".scala_history" ".Skype/" ".gphoto/" ".putty/" ".bash_login" ".erlang.cookie" ".java/" ".dropbox-dist/" ".adobe/" "books/" ".bash_logout" "dmarsh-scalakoansexercises-12cbe683d167/" ".icedtea/" "Dropbox/" ".zsh-update" ".tddium" ".recentf" ".mission-control/" ".thunderbird/" ".gvfs/" "pres" ".zlogin" "Downloads/" ".subversion_IDEA/" ".pki/" "Documents/" ".zcompdump" "ocr/" "examples.desktop" ".dropbox/" "ScalaByExample.pdf" ".gconf/" ".zshrc" "programs/" ".fgfs/" "Pictures/" "Desktop/" "paczki/" ".oh-my-zsh/" ".sbt/" ".bashrc.backup" ".bash_history" "aeroklub_pl.csv" "Videos/" ".netrc" ".cache/" ".gtk-bookmarks" ".local/" ".lesshst" ".bashrc" ".gstreamer-0.10/" ".pulse-cookie" ".mplayer/" ".filezilla/" ".gnome2/" ".Xauthority" ".aMule/" ".emacs.d/" ".ssh/" ".RubyMine40/" ".IdeaIC11/" ".gegl-0.0/" "inz" ".Private/" ".goutputstream-2EF3GW" ".ecryptfs/" ".fontconfig/" ".xsession-errors" "dot_vim/" ".VirtualBox/" "ruby_test.rb~" ".kde/" ".hplip/" "projekty/" ".macromedia/" ".zshrc.pre-oh-my-zsh" "Public/" ".pulse/" ".pry_history" ".gksu.lock" "workspace/" "../" "./")
+
+ ("/home/slawosz/.emacs.d/" (20495 61640) "../" "init.el" "backups/" "places" "elpa/" ".smex-items" "keybindings/" "./" "auto-save-list/" "ensime/" "slawosz-hooks.el" "scala-mode/")
+
+ ("/home/slawosz/projekty/scala-koans/" (20493 7717) "../" "sbt.bat" "lib/" ".ensime" "build.sbt" "project/" "koans.html" "src/" "lib_managed/" "sbt" "target/" "README-scala.txt" "./" "sbt-launch.jar" ".hgignore" ".hg_archival.txt")
+
+ ("/home/slawosz/projekty/scala-koans/src/test/scala/org/functionalkoans/forscala/" (20495 60335) "AboutInteroperability.scala" "AboutLiteralNumbers.scala" ".#AboutMaps.scala" "AboutInfixTypes.scala" "AboutTypeSignatures.scala" "#AboutMaps.scala#" "AboutForExpressions.scala" "AboutTuples.scala" "AboutTraits.scala" "AboutEnumerations.scala" "AboutHigherOrderFunctions.scala" "AboutMutableMaps.scala" "AboutMaps.scala" "AboutLazySequences.scala" "AboutSets.scala" "AboutNamedAndDefaultArguments.scala" "AboutFormatting.scala" "AboutRange.scala" "AboutValAndVar.scala" "support/" "AboutConstructors.scala" "AboutSequencesAndArrays.scala" "AboutOptions.scala" "AboutTypeVariance.scala" "AboutImplicits.scala" "AboutLiteralBooleans.scala" "AboutPartialFunctions.scala" "AboutManifests.scala" "AboutLiteralStrings.scala" "AboutPartiallyAppliedFunctions.scala" "AboutCaseClasses.scala" "Koans.scala" "AboutClasses.scala" "AboutMutableSets.scala" "AboutEmptyValues.scala" "AboutIterables.scala" "AboutParentClasses.scala" "AboutUniformAccessPrinciple.scala" "AboutPreconditions.scala" "AboutInfixPrefixAndPostfixOperators.scala" "AboutAsserts.scala" "AboutLists.scala" "AboutPatternMatching.scala" "AboutTraversables.scala" "../" "./")
+
+ ("/home/slawosz/.emacs.d/keybindings/" (20494 19995) "#keybindings.el#" "../" "keybindings.el" "expand-region-keybindings.el" ".#keybindings.el" "#expand-region.el#" "./")
+
+ ("/home/slawosz/.emacs.d/auto-save-list/" (20493 6397) "../" ".saves-23968-slawosz-dell~" "./" ".saves-11155-slawosz-dell~")
+
+ ("/home/slawosz/projekty/scala-koans/src/test/scala/org/functionalkoans/" (20493 4683) "../" "forscala/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/src/test/scala/org/" (20493 4683) "../" "functionalkoans/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/src/test/scala/" (20493 4683) "../" "org/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/src/test/" (20493 4683) "../" "scala/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/src/main/scala/org/functionalkoans/forscala/" (20493 4683) "../" "./" "SomeJavaClass.java")
+
+ ("/home/slawosz/projekty/scala-koans/src/main/scala/org/functionalkoans/" (20493 4683) "../" "forscala/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/src/main/scala/org/" (20493 4683) "../" "functionalkoans/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/src/main/scala/" (20493 4683) "../" "org/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/src/main/" (20493 4683) "../" "scala/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/src/" (20493 4683) "../" "test/" "main/" "./")
+
+ ("/home/slawosz/projekty/scala-koans/project/" (20493 4683) "../" "plugins.sbt" "./")
+
+ ("/home/slawosz/projekty/programming_in_scala/" (20492 59873) "../" ".#.ensime" ".ensime" "#.ensime#" "nameResolver.scala" "./")
+
+ ("/home/slawosz/programs/" (20373 5896) "../" "play-2.0/" "scala-2.9.2/" "eclim_1.7.4.jar" "eclipse/" "./")
+
+ ("/home/slawosz/.emacs.d/elpa/ace-jump-mode-1.0/" (20492 20851) "../" "ace-jump-mode.elc" "ace-jump-mode-pkg.el" "ace-jump-mode-autoloads.el" "ace-jump-mode-pkg.elc" "ace-jump-mode.el" "./")
+
+ ("/home/slawosz/.emacs.d/elpa/" (20489 22128) "../" "starter-kit-eshell-2.0.2/" "smex-1.1.2/" "inf-ruby-2.2.3/" "starter-kit-ruby-2.0.3/" "starter-kit-2.0.3/" "magit-1.1.1/" "starter-kit-js-2.0.1/" "expand-region-0.7.0/" "archives/" "paredit-22/" "idle-highlight-mode-1.1.2/" "find-file-in-project-3.0/" "./" "ido-ubiquitous-1.0/" "ace-jump-mode-1.0/")
+
+ ("/home/slawosz/projekty/scala_learning/" (20492 14228) "../" "anonymous_method_class.scala" "some_syntax.scala" "examples/" "simple_trait_2.scala" "unit_class_inspection.scala" "shorts.scala" "observer/" "like_super_in_class_and_traits.scala" ".#nameResolver.scala" "traits_example.scala" "simple_trait.scala" ".git/" "simple_trait_3.scala" "./" "scala_objects.scala" "first_closure.scala")
+
+ ("/home/slawosz/projekty/new_jobandtalent/app/models/" (20489 19643) "email_availability_checker.rb" "email_setter.rb" "language_degree_presenter.rb" "requirement.rb" "folder_assignement.rb" "disguised_avatar.rb" "company.rb" ".gitkeep" "relationship.rb" "fb_invitation_trace_report.rb" "sector.rb" "language.rb" "user.rb" "suggestion.rb" "facebook/" "reveal_notification.rb" "area_of_activity.rb" "stats_diff_log.rb" "candidate_search_index.rb" "candidate_resume_observer.rb" "language_level_normalizer.rb" "candidate_search_index_fields_calculator.rb" "filterable/" "secure_password_generator.rb" "grade.rb" "sector_membership.rb" "sale.rb" "area_of_activity_candidate.rb" "job_application.rb" "user_to_facebook_connection.rb" "imported_company_observer.rb" "disguised_company.rb" "admin/" "email_contact.rb" "social_import/" "candidate_profile_observer.rb" "period.rb" "relocation_preference.rb" "area_of_activity_requirement.rb" "sign_up_report.rb" "job_opening.rb" ".job_application.rb.swp" "education.rb" "fb_invitation_trace.rb" "additional_information.rb" "facebook_importer.rb" "skill_requirement.rb" "education_type.rb" "country.rb" "facebook_user.rb" "skill.rb" "candidate_search_index_observer.rb" "province.rb" "email_contact_report.rb" "areas_assoc.rb" "inline_input_renderer.rb" "candidate_profile_type.rb" "country_translation.rb" "language_level.rb" "friend_suggestion.rb" "folder.rb" "candidate_skill.rb" "candidate.rb" "contract_type.rb" "employer.rb" ".candidate.rb.swp" "normalized_location.rb" "education_type_normalizer.rb" "salary_preference.rb" "school_requirement.rb" "area_of_activity_translation.rb" "search/" "product.rb" "sector_translation.rb" "candidate_email_contact.rb" "field_of_studies_requirement.rb" "notification.rb" "job_opening_language_locale.rb" "field_of_studies.rb" "review_notification.rb" "field_of_studies_translation.rb" "employer_network.rb" "fb_import_status.rb" "candidate_location_line.rb" "candidate_stats_presenter.rb" "location_setter.rb" "candidate_area.rb" "job_opening_invitation.rb" "contexts/" "facebook_friend.rb" "candidacy_preference.rb" "company_contact.rb" "invite_status.rb" "fitting_opening_story.rb" "employment.rb" "school_network.rb" "facebook_user_factory.rb" "school.rb" "friendship.rb" "impersonation_log.rb" "language_locale.rb" "../" "./")
+
+ ("/home/slawosz/projekty/new_jobandtalent/app/" (20440 42567) "../" "cells/" "workers/" "controllers/" "models/" "assets/" "views/" "helpers/" "decorators/" "mailers/" "services/" "./" "extensions/")
+
+ ("/home/slawosz/projekty/new_jobandtalent/" (20489 10516) "../" "tmp/" "var/" "Rakefile" "spec/" "README.rdoc" "public/" "lib/" "db/" "bin/" "app/" "Guardfile" "doc/" ".rspec.example" "config.ru" "vendor/" "script/" ".tddium" ".tddium-deploy-key" "Procfile" "config/" "Gemfile.lock" "Gemfile" ".git/" ".gitignore" "./" ".rvmrc" "log/" ".env.example" ".rvmrc.default")
+
+ ("/home/slawosz/projekty/scala-sbt-example/src/main/scala/" (20489 22160) "../" ".#tax.scala" ".ensime" "tax.scala" "target/" "./")
+
+ ("/home/slawosz/projekty/scala-sbt-example/" (20400 52897) "../" ".classpath" ".ensime" "build.sbt" "project/" ".idea/" "src/" ".project" ".history" "target/" ".cache" ".git/" ".gitignore" ".idea_modules/" "./" "README.md")
+
+ ("/home/slawosz/projekty/scala-sbt-example/src/main/" (20391 30340) "../" "scala/" "java/" "./")
+
+ ("/home/slawosz/projekty/scala-sbt-example/src/" (20391 20230) "../" "test/" "main/" "./")
+
+ ("/home/slawosz/.sbt/" (20400 52533) "../" "boot/" "./" "plugins/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
